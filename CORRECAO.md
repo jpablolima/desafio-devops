@@ -8,5 +8,3 @@ Executado a aplicação para verificação dos erros.
 - Realizado a configuração para execução da aplicação node, passando no arquivo Dockefile RUN npm install
    CMD [ "npm", "start" ]
 
-image.png
-image.png
